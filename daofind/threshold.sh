@@ -38,4 +38,6 @@ while read -r image_file fwhm sky; do
   ((i++))
 
 done < "$file_with_image_info"
-
+wc -l *coo* > threshold.txt
+mkdir pThres
+mv *coo* pThres
