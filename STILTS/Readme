@@ -1,1 +1,2 @@
-Aquí archivos/código relacionados con el emparejamiento realizado en STILTS
+Aquí archivos/código relacionados con el emparejamiento realizado en STILTS. Match.py realiza emparejamiento tabla por tabla, en pares, corre el comando 
+de stilts desde python. Uniontab.py une todas las tablas emparejadas para obtener una sola tabla general de emparejamiento al máster.
